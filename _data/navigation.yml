@@ -6,20 +6,20 @@
 
 main:
   - title: "Publications"
-    url: https://ewa-walle.github.io/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: https://ewa-walle.github.io/talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: https://ewa-walle.github.io/teaching/    
+    url: /teaching/    
     
   - title: "Portfolio"
-    url: https://ewa-walle.github.io/portfolio/
+    url: /portfolio/
         
   - title: "Blog Posts"
-    url: https://ewa-walle.github.io/year-archive/
+    url: /year-archive/
     
   - title: "CV"
-    url: https://ewa-walle.github.io/cv/
+    url: /cv/
   
